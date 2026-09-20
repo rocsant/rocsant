@@ -18,12 +18,6 @@ Aqui no GitHub, compartilho meus projetos acadêmicos, estudos de arquitetura e 
 * 🎓 **Bacharelado em Engenharia de Computação** – UNIVESP (Em andamento) 
 * 🎓 **Análise e Desenvolvimento de Sistemas** – FATEC (Concluído). 2020 <-> 2024 
 * 🎓 **Técnico em Informática** – ETEC (Concluído). 2018 <-> 2019 
-
----
-
-## 🎯 Objetivo
-
-Atuar como desenvolvedor/ FullStack
 ---
 
 ## 📬 Contato
