@@ -32,8 +32,6 @@ Aqui no GitHub, compartilho meus projetos acadêmicos, estudos de arquitetura e 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" vspace="10" hspace="5" width="40" height="40" alt="Spring Boot" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" vspace="10" hspace="5" width="40" height="40" alt="PHP" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" vspace="10" hspace="5" width="40" height="40" alt="Laravel" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" vspace="10" hspace="5" width="40" height="40" alt="PostgreSQL" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maven/maven-original.svg" vspace="10" hspace="5" width="40" height="40" alt="Maven" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gradle/gradle-original.svg" vspace="10" hspace="5" width="40" height="40" alt="Gradle" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" vspace="10" hspace="5" width="40" height="40" alt="PostgreSQL" 
 </div>
 
