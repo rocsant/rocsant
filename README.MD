@@ -28,10 +28,9 @@ Atuar como desenvolvedor/ FullStack
 
 ## 📬 Contato
 
-* 💼 **LinkedIn:** [https://www.linkedin.com/in/charles-rocha-eng/]
+* 💼 **LinkedIn:** [https://www.linkedin.com/in/charles-roc-sant/]
 
 ---
-
 ## 🛠️ Linguagens e Stacks
 
 <div align="left">
@@ -44,12 +43,3 @@ Atuar como desenvolvedor/ FullStack
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gradle/gradle-original.svg" vspace="10" hspace="5" width="40" height="40" alt="Gradle" />
 </div>
 
----
-
-## 📊 Estatísticas
-
-<div align="center">
-
-  <!-- Cartão de Repositórios por Linguagem (Gráfico de Pizza) -->
-  <img height="195" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=charlescript&theme=tokyonight" alt="Repos per Language" />
-</div>
