@@ -32,7 +32,7 @@ Atuar como desenvolvedor/ FullStack
 
 ---
 
-## 🛠️ Linguagens e Tecnologias
+## 🛠️ Linguagens e Stacks
 
 <div align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" vspace="10" hspace="5" width="40" height="40" alt="Java" />
